@@ -11,9 +11,9 @@ export default function Page() {
         tools with AI. Over the past 10 years, I dedicated myself to deeply
         learning about finance, investing, meditation, nutrition, and fitness.
       </p>
+      //Working on image issue in production
       <div className="columns-2 sm:columns-3 gap-4 my-8">
         <div className="relative h-40 mb-4">
-          //Working on image issue in production
           <Image
             alt="Me and my family at a temple in Thailand"
             src="/images/thai.jpg"
