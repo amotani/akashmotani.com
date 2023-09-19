@@ -5,18 +5,19 @@ export default function Page() {
         The 6 Sleep Hacks You NEED!
       </h1>
       <div className="italic mt-6">
-        Most of the information in this essay is derived from Matthew Walker's
-        book, "Why We Sleep," and his podcast interviews.
+        Most of the information in this essay is derived from Matthew
+        Walker&apos;s book, &quot;Why We Sleep,&quot; and his podcast
+        interviews.
       </div>
       <div className="mt-6">
         Sleep is the single most effective way to reset your brain and improve
-        your body's health. This is not to dismiss the importance of exercise or
-        diet, as both are critical for overall health. However, if you were
-        deprived of food, exercise, or water for a day, compared to being
-        deprived of sleep for a day and then having your brain and body
-        impairments mapped, it's not even a competition how much more one night
-        of lost sleep can hurt your body and brain. Sleep is the elixir of life
-        and serves as your body's life support system.
+        your body&apos;s health. This is not to dismiss the importance of
+        exercise or diet, as both are critical for overall health. However, if
+        you were deprived of food, exercise, or water for a day, compared to
+        being deprived of sleep for a day and then having your brain and body
+        impairments mapped, it&apos;s not even a competition how much more one
+        night of lost sleep can hurt your body and brain. Sleep is the elixir of
+        life and serves as your body&apos;s life support system.
       </div>
       <h1 className="font-bold tracking-tighter text-2xl mt-6">
         Why Do We Sleep?
@@ -35,8 +36,8 @@ export default function Page() {
         sensitivity. It also regulates blood sugar, appetite, and sex hormones
         like testosterone and estrogen. Additionally, sleep improves memory,
         reduces anxiety, emotional difficulties, and trauma. Furthermore, it
-        cleanses Alzheimer's toxic proteins from the brain. These are just a few
-        reasons why sleeping is essential.
+        cleanses Alzheimer&apos;s toxic proteins from the brain. These are just
+        a few reasons why sleeping is essential.
       </div>
       <h1 className="font-bold tracking-tighter text-2xl mt-6">
         Unihemispheric Sleep
@@ -62,39 +63,42 @@ export default function Page() {
         Chronotypes - Effects of Humanity being a Tribe Species
       </h1>
       <div className="mt-6">
-        Now, there is something else that we call "your chronotype". Are you a
-        morning type, evening type, or somewhere in between? And, by the way,
-        you don't get to decide. It's about a third-split across the population.
-        It's because we are in a tribe. If we all sleep at the same time, we are
-        vulnerable for eight hours. We have the morning types who go to sleep
-        from 9 pm to 5 am. Then, we have the extreme evening types who sleep
-        from 2 am to 10 am. So, you're only vulnerable for 2 to 3 hours.
+        Now, there is something else that we call &quot;your chronotype&quot;.
+        Are you a morning type, evening type, or somewhere in between? And, by
+        the way, you don&apos;t get to decide. It&apos;s about a third-split
+        across the population. It&apos;s because we are in a tribe. If we all
+        sleep at the same time, we are vulnerable for eight hours. We have the
+        morning types who go to sleep from 9 pm to 5 am. Then, we have the
+        extreme evening types who sleep from 2 am to 10 am. So, you&apos;re only
+        vulnerable for 2 to 3 hours.
       </div>
       <h1 className="font-bold tracking-tighter text-2xl mt-6">
         What if I sleep with a partner who has a different chronotype?
       </h1>
       <div className="mt-6">
-        Let's say my partner goes to sleep at 9 pm and I go to bed at midnight.
-        If she wakes me up as she's waking up at 5 am, it can cause non-trivial
-        issues. Likewise, if I wake her up as I'm getting into bed, it can also
-        be disruptive. Sleep difficulties or issues are often cited as a cause
-        or contributing factor to breakups, with chronotype mismatch being one
-        of the factors. Some dating profiles even mention whether someone is a
-        morning or evening type to avoid potential issues.
+        Let&apos;s say my partner goes to sleep at 9 pm and I go to bed at
+        midnight. If she wakes me up as she&apos;s waking up at 5 am, it can
+        cause non-trivial issues. Likewise, if I wake her up as I&apos;m getting
+        into bed, it can also be disruptive. Sleep difficulties or issues are
+        often cited as a cause or contributing factor to breakups, with
+        chronotype mismatch being one of the factors. Some dating profiles even
+        mention whether someone is a morning or evening type to avoid potential
+        issues.
         <div className="m-2" />
-        A "sleep divorce" is when couples sleep in separate locations, which is
-        a taboo topic but is actually quite common (one in four people sleep
-        separately from their partner). Sleeping well can improve sex hormones
-        and desire for intimacy, with extra sleep increasing a woman's libido by
-        14%. However, objective measures show that couples actually sleep worse
-        when sleeping together, despite subjective satisfaction being higher.
+        A &quot;sleep divorce&quot; is when couples sleep in separate locations,
+        which is a taboo topic but is actually quite common (one in four people
+        sleep separately from their partner). Sleeping well can improve sex
+        hormones and desire for intimacy, with extra sleep increasing a
+        woman&apos;s libido by 14%. However, objective measures show that
+        couples actually sleep worse when sleeping together, despite subjective
+        satisfaction being higher.
         <div className="m-2" />
-        If you're considering a sleep divorce, be honest with yourself and your
-        partner. You can try it out experimentally for a week or 10 days to see
-        how it goes. The "bookends" of sleep (getting into bed and waking up)
-        are what most couples miss, rather than the unconscious experience of
-        sleeping together. You can still have a kiss or cuddle before retreating
-        to separate beds.
+        If you&apos;re considering a sleep divorce, be honest with yourself and
+        your partner. You can try it out experimentally for a week or 10 days to
+        see how it goes. The &quot;bookends&quot; of sleep (getting into bed and
+        waking up) are what most couples miss, rather than the unconscious
+        experience of sleeping together. You can still have a kiss or cuddle
+        before retreating to separate beds.
       </div>
       <h1 className="font-bold tracking-tighter text-2xl mt-6">
         Modernity and Sleep
@@ -108,9 +112,9 @@ export default function Page() {
         meeting. There are countless external factors that can affect our
         ability to sleep. From a capitalistic standpoint, society does not want
         us sleeping. From this perspective, we are expected to either produce or
-        consume, and when we're sleeping, we're doing neither. In fact, CEO of
-        Netflix, Reed Hastings, has said that they are committing a war against
-        sleep.
+        consume, and when we&apos;re sleeping, we&apos;re doing neither. In
+        fact, CEO of Netflix, Reed Hastings, has said that they are committing a
+        war against sleep.
         <div className="m-2" />
         Anxiety, caffeine consumption, and a lack of exposure to the right
         temperature cues are just a few factors that contribute to a sleep
@@ -135,7 +139,7 @@ export default function Page() {
         Facebook implement this practice, understanding the dollars and cents
         version of productivity.
         <div className="m-2" />
-        In the case of business, if you don't snooze, you lose.
+        In the case of business, if you don&apos;t snooze, you lose.
       </div>
       <h1 className="font-bold tracking-tighter text-2xl mt-6">Naps</h1>
       <div className="mt-6">
@@ -150,7 +154,7 @@ export default function Page() {
         <div className="m-2" />
         If you struggle with sleep at night and nap during the day, you may
         reduce the amount of healthy sleepiness that builds up, which can
-        negatively impact your chances of getting a good night's sleep.
+        negatively impact your chances of getting a good night&apos;s sleep.
         <div className="m-2" />
         Try not to nap after 2 pm.
       </div>
@@ -161,14 +165,14 @@ export default function Page() {
         drink coffee at noon, a quarter of it will still be in your brain at
         midnight. Second, caffeine is a stimulant that attaches to adenosine
         receptors, blocking the feeling of sleepiness. However, adenosine
-        continues to build up, leading to a "tsunami wave" of sleepiness once
-        the caffeine wears off, known as a caffeine crash. Third, caffeine can
-        cause anxiety and interfere with deep sleep.
+        continues to build up, leading to a &quot;tsunami wave&quot; of
+        sleepiness once the caffeine wears off, known as a caffeine crash.
+        Third, caffeine can cause anxiety and interfere with deep sleep.
         <div className="m-2" />
         Deep sleep is critical for regulating your cardiovascular and metabolic
         systems, replenishing the immune system, and consolidating new memories
         in the brain. It also cleanses the brain of metabolic toxins, including
-        those related to Alzheimer's disease.
+        those related to Alzheimer&apos;s disease.
         <div className="m-2" />
         <div className="italic">
           Disclaimer: All suggestions and advice in this essay are based on
@@ -183,7 +187,7 @@ export default function Page() {
         Alternatively, you can try switching to decaf.
       </div>
       <h1 className="font-bold tracking-tighter text-2xl mt-6">
-        I’m lying in bed awake at 4am, what should I do?
+        I&apos;m lying in bed awake at 4am, what should I do?
       </h1>
       <div className="mt-6">
         If you find yourself lying awake in bed, it is recommended that you get
@@ -225,15 +229,15 @@ export default function Page() {
         suicidality, immune compromise, and infection can all happen in the
         midterm. In the longer term, there is a risk of premature mortality. The
         shorter you sleep, the shorter your life. The risk of cancer and
-        Alzheimer’s increases. Research has shown that if you are sleepless for
-        a night, there is an immediate increase in Alzheimer's disease-related
-        proteins circulating in your bloodstream.
+        Alzheimer&apos;s increases. Research has shown that if you are sleepless
+        for a night, there is an immediate increase in Alzheimer&apos;s
+        disease-related proteins circulating in your bloodstream.
         <div className="m-2" />
         Your body has a cleansing system called the lymphatic system. Dr. Maiken
         Nedergaard discovered that the brain also has a cleansing system called
         the glymphatic system, which is only active during deep sleep. Sleep is
         a power cleanse for the brain that cleans the proteins that build up in
-        our brains and cause Alzheimer’s disease.
+        our brains and cause Alzheimer&apos;s disease.
       </div>
       <h1 className="font-bold tracking-tighter text-2xl mt-6">
         How can I improve my sleep?
@@ -269,11 +273,11 @@ export default function Page() {
         This phenomenon is known as sleep procrastination, where you may be
         sleepy but keep checking your phone, leading to sleep deficiency.
         <div className="m-2" />
-        Technology has become an integral part of our lives, and it's not going
-        away anytime soon. However, it's advisable not to take your phone into
-        the bedroom. If you must, use it only while standing up. After about six
-        or seven minutes, you'll likely feel the need to sit down and put your
-        phone away.
+        Technology has become an integral part of our lives, and it&apos;s not
+        going away anytime soon. However, it&apos;s advisable not to take your
+        phone into the bedroom. If you must, use it only while standing up.
+        After about six or seven minutes, you&apos;ll likely feel the need to
+        sit down and put your phone away.
       </div>
       <h1 className="font-bold tracking-tighter text-2xl mt-6">
         Sleep and Weight
@@ -282,9 +286,9 @@ export default function Page() {
         Leptin and Ghrelin are hormones that regulate appetite. Leptin signals
         to your brain that you are full, while Ghrelin signals that you are
         hungry. When sleep is restricted to six hours, Leptin decreases by 18
-        percent while Ghrelin increases by 28 percent. This creates a "double
-        jeopardy" situation where you lose the signal that you are full and
-        become much more hungry, leading to overeating.
+        percent while Ghrelin increases by 28 percent. This creates a
+        &quot;double jeopardy&quot; situation where you lose the signal that you
+        are full and become much more hungry, leading to overeating.
         <div className="m-2" />
         Studies show that underslept individuals eat about three to four hundred
         extra calories at each meal, with heavy starchy carbohydrates, simple
@@ -299,17 +303,17 @@ export default function Page() {
       <h1 className="font-bold tracking-tighter text-2xl mt-6">Dreaming</h1>
       <div className="mt-6">
         During deep sleep, memories are transferred from short-term to long-term
-        storage. During REM sleep, individual pieces of information that we've
-        been learning are interconnected and associated with our back catalog of
-        stored information. Dream sleep creates a revised mind web of
+        storage. During REM sleep, individual pieces of information that
+        we&apos;ve been learning are interconnected and associated with our back
+        catalog of stored information. Dream sleep creates a revised mind web of
         associations that is capable of solving previously impenetrable
         problems. Think of dreaming as informational alchemy, where things that
-        shouldn't normally go together are fused together and result in marked
-        advances in your thinking, productivity, and ingenuity. This way, you go
-        to sleep with the pieces of the jigsaw, but wake up with the puzzle
-        complete. I would argue that this is the difference between knowledge,
-        which is remembering the individual pieces, and wisdom, which is knowing
-        what it all means when you fit them together.
+        shouldn&apos;t normally go together are fused together and result in
+        marked advances in your thinking, productivity, and ingenuity. This way,
+        you go to sleep with the pieces of the jigsaw, but wake up with the
+        puzzle complete. I would argue that this is the difference between
+        knowledge, which is remembering the individual pieces, and wisdom, which
+        is knowing what it all means when you fit them together.
       </div>
     </section>
   );

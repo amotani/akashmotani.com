@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <section>
       <h1 className="font-bold text-2xl mb-8 tracking-tighter">
-        hey, I'm Akash 👋
+        hey, I&apos;m Akash 👋
       </h1>
       <a className="flex flex-col space-y-1 mb-4" href="/blog/sleep">
         <div className="w-full flex flex-col">

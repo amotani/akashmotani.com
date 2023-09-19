@@ -4,7 +4,7 @@ export default function Page() {
   return (
     <section>
       <h1 className="font-bold text-2xl mb-8 tracking-tighter">
-        hey, I'm Akash 👋
+        hey, I&apos;m Akash 👋
       </h1>
       <p className="prose prose-neutral dark:prose-invert">
         I am passionate about engineering, design, and building educational
