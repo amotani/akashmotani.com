@@ -16,7 +16,7 @@ export default function Page() {
         <div className="relative h-40 mb-4">
           <Image
             alt="Me and my family at a temple in Thailand"
-            src="/images/thai.jpg"
+            src="/images/thai.JPG"
             fill
             sizes="(max-width: 768px) 213px, 33vw"
             priority
@@ -36,7 +36,7 @@ export default function Page() {
         <div className="relative h-40 sm:h-80 sm:mb-4">
           <Image
             alt="View from Bahubaali Hills in Udaipur"
-            src="/images/udai.jpg"
+            src="/images/udai.JPG"
             fill
             sizes="(max-width: 768px) 213px, 33vw"
             priority
@@ -46,7 +46,7 @@ export default function Page() {
         <div className="relative h-40 mb-4 sm:mb-0">
           <Image
             alt="My mom, uncle and family at Bahubaali Hills in Udaipur"
-            src="/images/fam.jpg"
+            src="/images/fam.JPG"
             fill
             sizes="(max-width: 768px) 213px, 33vw"
             priority
@@ -66,7 +66,7 @@ export default function Page() {
         <div className="relative h-80">
           <Image
             alt="My cousins at Bahubaali Hills in Udaipur"
-            src="/images/fam2.jpg"
+            src="/images/fam2.JPG"
             fill
             sizes="(min-width: 768px) 213px, 33vw"
             priority
