@@ -1,10 +1,4 @@
 import Image from "next/image";
-import ele from "public/images/ele.jpg";
-import fam from "public/images/fam.jpg";
-import fam2 from "public/images/fam2.jpg";
-import taj from "public/images/taj.jpg";
-import thai from "public/images/thai.jpg";
-import udai from "public/images/udai.jpg";
 
 export default function Page() {
   return (
@@ -21,7 +15,7 @@ export default function Page() {
         <div className="relative h-40 mb-4">
           <Image
             alt="Me and my family at a temple in Thailand"
-            src={thai}
+            src="/images/thai.jpg"
             fill
             sizes="(max-width: 768px) 213px, 33vw"
             priority
@@ -31,7 +25,7 @@ export default function Page() {
         <div className="relative h-80 mb-4 sm:mb-0">
           <Image
             alt="Me in Thailand with elephants"
-            src={ele}
+            src="/images/ele.jpg"
             fill
             sizes="(max-width: 768px) 213px, 33vw"
             priority
@@ -41,7 +35,7 @@ export default function Page() {
         <div className="relative h-40 sm:h-80 sm:mb-4">
           <Image
             alt="View from Bahubaali Hills in Udaipur"
-            src={udai}
+            src="/images/udai.jpg"
             fill
             sizes="(max-width: 768px) 213px, 33vw"
             priority
@@ -51,7 +45,7 @@ export default function Page() {
         <div className="relative h-40 mb-4 sm:mb-0">
           <Image
             alt="My mom, uncle and family at Bahubaali Hills in Udaipur"
-            src={fam}
+            src="/images/fam.jpg"
             fill
             sizes="(max-width: 768px) 213px, 33vw"
             priority
@@ -61,7 +55,7 @@ export default function Page() {
         <div className="relative h-40 mb-4">
           <Image
             alt="Me and my family at the Taj Mahal"
-            src={taj}
+            src="/images/taj.jpg"
             fill
             sizes="(max-width: 768px) 213px, 33vw"
             priority
@@ -71,7 +65,7 @@ export default function Page() {
         <div className="relative h-80">
           <Image
             alt="My cousins at Bahubaali Hills in Udaipur"
-            src={fam2}
+            src="/images/fam2.jpg"
             fill
             sizes="(min-width: 768px) 213px, 33vw"
             priority
